@@ -1,0 +1,10 @@
+.mr-custom{
+    margin-right: 2rem !important;
+}
+a{
+    text-decoration: none !important;
+    cursor: pointer !important;
+}
+.back{
+    background-color: aqua;
+}
